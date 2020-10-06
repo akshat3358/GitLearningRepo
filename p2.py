@@ -1,4 +1,5 @@
 print("Hello world")
-print("going to add some features")
-print("added print")
-print("new print feature added in p2.py file in dev branch")
+#this file is to practice git 
+l=["hello","This","is","Akshat","chaturvedi"]
+for item in l:
+	print(item\t)
